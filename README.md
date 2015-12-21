@@ -2,7 +2,8 @@
 
 A UEFI applicaiton by using the UDK2014.
 
-It is actually a Maze game
+It is actually a Maze Game.
+
 For detail, please see the document in the folder, writen by Chinese and I believe it constains useful informations below:
 
 1. Enviromental configurations.
@@ -12,5 +13,7 @@ For detail, please see the document in the folder, writen by Chinese and I belie
 Any Questions, please contact liute62@sina.cn or liuhaodong0828@gmail.com, thank you!
 
 Reference:
+
 https://github.com/swmicro/Tetris
+
 https://github.com/diamont1001/C_maze
