@@ -18,4 +18,18 @@ https://github.com/swmicro/Tetris
 
 https://github.com/diamont1001/C_maze
 
-(please star it after you clone it and like it.「^_^」)
+(please star it after you clone it if like it.「^_^」)
+
+###Screenshot
+
+####Game Start
+![alt tag](https://github.com/liute62/Firmware-UEFI-Maze/blob/master/screenshot/UEFI-1.png)
+
+####Game Menu
+![alt tag](https://github.com/liute62/Firmware-UEFI-Maze/blob/master/screenshot/UEFI-2.png)
+
+####Gaming
+![alt tag](https://github.com/liute62/Firmware-UEFI-Maze/blob/master/screenshot/UEFI-3.png)
+
+####Game Win
+![alt tag](https://github.com/liute62/Firmware-UEFI-Maze/blob/master/screenshot/UEFI-4.png)
